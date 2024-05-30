@@ -1,0 +1,14 @@
+{
+  "name": "basic_auth_example",
+  "version": "1.0.0",
+  "description": "example implementation of basic authentication",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olaleye Israel",
+  "license": "ISC"
+}
+
+
